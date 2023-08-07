@@ -1,7 +1,7 @@
 // Deklarasi pin untuk setiap kelompok lampu
-int lampuMerahKelompok1 = 12;
-int lampuKuningKelompok1 = 11;
-int lampuHijauKelompok1 = 10;
+int lampuMerahKelompok1 = 13;
+int lampuKuningKelompok1 = 12;
+int lampuHijauKelompok1 = 11;
 
 int lampuMerahKelompok2 = 8;
 int lampuKuningKelompok2 = 7;
